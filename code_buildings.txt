@@ -1,0 +1,14 @@
+12
+11 Play_Fields
+12 Lecture_Hall
+13 Water_Tower
+14 Guest_House
+15 Clusters
+16 Library
+17 Ceremony_Hall
+18 Dorm_1
+19 Dorm_2
+20 Admin_Building
+21 Exhibition_Hall
+22 Gate
+
